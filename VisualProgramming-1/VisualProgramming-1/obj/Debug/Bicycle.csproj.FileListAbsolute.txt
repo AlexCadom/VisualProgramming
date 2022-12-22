@@ -1,0 +1,11 @@
+C:\VisualProgramming-1\VisualProgramming-1\bin\Debug\WindowsFormsApp1.exe.config
+C:\VisualProgramming-1\VisualProgramming-1\bin\Debug\WindowsFormsApp1.exe
+C:\VisualProgramming-1\VisualProgramming-1\bin\Debug\WindowsFormsApp1.pdb
+C:\VisualProgramming-1\VisualProgramming-1\obj\Debug\Bicycle.csproj.AssemblyReference.cache
+C:\VisualProgramming-1\VisualProgramming-1\obj\Debug\Bicycle.csproj.SuggestedBindingRedirects.cache
+C:\VisualProgramming-1\VisualProgramming-1\obj\Debug\Bicycles.FormBicycleMaker.resources
+C:\VisualProgramming-1\VisualProgramming-1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\VisualProgramming-1\VisualProgramming-1\obj\Debug\Bicycle.csproj.GenerateResource.cache
+C:\VisualProgramming-1\VisualProgramming-1\obj\Debug\Bicycle.csproj.CoreCompileInputs.cache
+C:\VisualProgramming-1\VisualProgramming-1\obj\Debug\WindowsFormsApp1.exe
+C:\VisualProgramming-1\VisualProgramming-1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,33 @@
+D:\vs2\MDIandSDI\bin\Debug\MDIandSDI.exe.config
+D:\vs2\MDIandSDI\bin\Debug\MDIandSDI.exe
+D:\vs2\MDIandSDI\bin\Debug\MDIandSDI.pdb
+D:\vs2\MDIandSDI\obj\Debug\MDIandSDI.csproj.AssemblyReference.cache
+D:\vs2\MDIandSDI\obj\Debug\MDIandSDI.csproj.SuggestedBindingRedirects.cache
+D:\vs2\MDIandSDI\obj\Debug\MDIandSDI.FormMDI.resources
+D:\vs2\MDIandSDI\obj\Debug\MDIandSDI.Properties.Resources.resources
+D:\vs2\MDIandSDI\obj\Debug\MDIandSDI.csproj.GenerateResource.cache
+D:\vs2\MDIandSDI\obj\Debug\MDIandSDI.csproj.CoreCompileInputs.cache
+D:\vs2\MDIandSDI\obj\Debug\MDIandSDI.exe
+D:\vs2\MDIandSDI\obj\Debug\MDIandSDI.pdb
+C:\Users\Irine\Downloads\Telegram Desktop\New folder\MDIandSDI\MDIandSDI\obj\Debug\MDIandSDI.exe
+C:\Users\Irine\Downloads\Telegram Desktop\New folder\MDIandSDI\MDIandSDI\obj\Debug\MDIandSDI.pdb
+C:\Users\Irine\Downloads\Telegram Desktop\New folder\MDIandSDI\MDIandSDI\bin\Debug\MDIandSDI.exe.config
+C:\Users\Irine\Downloads\Telegram Desktop\New folder\MDIandSDI\MDIandSDI\bin\Debug\MDIandSDI.exe
+C:\Users\Irine\Downloads\Telegram Desktop\New folder\MDIandSDI\MDIandSDI\bin\Debug\MDIandSDI.pdb
+C:\Users\Irine\Downloads\Telegram Desktop\New folder\MDIandSDI\MDIandSDI\obj\Debug\Flowers.FormFlowerMaker.resources
+C:\Users\Irine\Downloads\Telegram Desktop\New folder\MDIandSDI\MDIandSDI\obj\Debug\MDIandSDI.FormMDI.resources
+C:\Users\Irine\Downloads\Telegram Desktop\New folder\MDIandSDI\MDIandSDI\obj\Debug\MDIandSDI.Properties.Resources.resources
+C:\Users\Irine\Downloads\Telegram Desktop\New folder\MDIandSDI\MDIandSDI\obj\Debug\MDIandSDI.csproj.GenerateResource.cache
+D:\vs2\MDIandSDI\obj\Debug\Flowers.FormFlowerMaker.resources
+C:\lab2 vp\MDIandSDI\obj\Debug\MDIandSDI.csproj.AssemblyReference.cache
+C:\lab2 vp\MDIandSDI\obj\Debug\MDIandSDI.csproj.SuggestedBindingRedirects.cache
+C:\lab2 vp\MDIandSDI\obj\Debug\Flowers.FormFlowerMaker.resources
+C:\lab2 vp\MDIandSDI\obj\Debug\MDIandSDI.FormMDI.resources
+C:\lab2 vp\MDIandSDI\obj\Debug\MDIandSDI.Properties.Resources.resources
+C:\lab2 vp\MDIandSDI\obj\Debug\MDIandSDI.csproj.GenerateResource.cache
+C:\lab2 vp\MDIandSDI\obj\Debug\MDIandSDI.csproj.CoreCompileInputs.cache
+C:\lab2 vp\MDIandSDI\obj\Debug\MDIandSDI.exe
+C:\lab2 vp\MDIandSDI\obj\Debug\MDIandSDI.pdb
+C:\lab2 vp\MDIandSDI\bin\Debug\MDIandSDI.exe.config
+C:\lab2 vp\MDIandSDI\bin\Debug\MDIandSDI.exe
+C:\lab2 vp\MDIandSDI\bin\Debug\MDIandSDI.pdb
